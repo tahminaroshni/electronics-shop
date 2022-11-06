@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+  <link href="./index.css" rel="stylesheet">
+  <script src="index.js" defer></script>
+  <title>Electronics Shop</title>
+</head>
+
+<body class="text-xl bg-cyan-50">
+  <!-- HEADER -->
+  <header class="border-b-2 border-cyan-100">
+    <nav class="flex justify-between items-center container mx-auto my-10 h-5">
+      <div class="logo">
+        <h4 class="text-4xl italic font-bold"><span class="text-cyan-500">Electronics</span>-Shop</h4>
+      </div>
+
+      <ul class="links flex gap-8">
+        <li><a href="#" class="hover:text-cyan-700 hover:font-medium duration-300">About</a></li>
+        <li><a href="#" class="hover:text-cyan-700  hover:font-medium duration-300">Features</a></li>
+        <li><a href="#" class="hover:text-cyan-700 hover:font-medium duration-300">Supports</a></li>
+        <li><a href="#" class="hover:text-cyan-700  hover:font-medium duration-300">Contact US</a></li>
+      </ul>
+
+      <div class="flex gap-5 items-center">
+        <a href="#"
+          class="shop-now-btn bg-cyan-500 p-3 px-6 rounded-xl text-white font-semibold text-2xl hover:bg-cyan-600 duration-300">Shop
+          Now</a>
+        <div class="show-cart">
+          <i class="fa-solid fa-cart-plus text-2xl hover:text-cyan-600 duration-300 relative"></i>
+          <span class="selected-product bg-rose-500 p-1 px-2 text-cyan-50 rounded-full absolute top-4 right-40">0</span>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!-- MAIN -->
+  <div class="products-container container mx-auto grid grid-cols-3 gap-8 py-24">
+
+    <!-- Single Product -->
+
+  </div>
+
+  <!-- Order's Modal -->
+  <div
+    class="modal w-3/5 h-screen bg-cyan-50 fixed top-0 right-0 opacity-90 backdrop-blur-xl shadow-2xl shadow-cyan-500 border-l-2 border-cyan-200 p-20 hidden z-50">
+    <div class="modal-header text-4xl uppercase font-semibold flex justify-between items-center">
+      <h2 class="text-cyan-700">Your cart</h2>
+      <h2 class="close-modal text-rose-600 cursor-pointer">X</h2>
+    </div>
+    <div class="carts py-10 flex flex-col gap-3">
+
+    </div>
+  </div>
+</body>
+
+</html>

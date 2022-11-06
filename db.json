@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Smart Watches",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/small/mi-amazfit-band-5-black-fitness-smart-watch-with-11665994430.webp",
+      "title": "Smartwatch Price in Bangladesh",
+      "price": "150$"
+    },
+    {
+      "id": 2,
+      "category": "Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2VfvNT2FJ_XczPgrt-tV_0XxfGusjq5TSw&usqp=CAU",
+      "title": "HP Laptops Convertible Detachable",
+      "price": "3000$"
+    },
+    {
+      "id": 3,
+      "category": "Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpt93qrergkHBkHSXi8FPv7rdPlTJGtj9UsTFxcY8T-iuVbU5Km1zDYOeLRGZrB9ZKDg&usqp=CAU",
+      "title": "Forbes, The Upcoming Changes To The MacBook Pro",
+      "price": "4000$"
+    },
+    {
+      "id": 4,
+      "category": "Smart TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSs_QMavP75zCKsCQDWwgvOFXkXHplWyyKaA&usqp=CAU",
+      "title": "49' 4K ULTRA HD",
+      "price": "300$"
+    },
+    {
+      "id": 5,
+      "category": "Smart TV",
+      "image": "https://www.sony-asia.com/image/ff0a71866476e0ad65b8d848f2d7b40c?fmt=pjpeg&wid=1200&hei=470&bgcolor=F1F5F9&bgc=F1F5F9",
+      "title": "BRAVIA TV W830K ",
+      "price": "400$"
+    },
+    {
+      "id": 6,
+      "category": " Tablet",
+      "image": "https://news-cdn.softpedia.com/images/news2/Mac-Tablet-Scheduled-for-2010-Analyst-Says-2.jpg",
+      "title": " Mac Tablet Scheduled for 2010, Analyst Says",
+      "price": "900$"
+    }
+  ]
+}
